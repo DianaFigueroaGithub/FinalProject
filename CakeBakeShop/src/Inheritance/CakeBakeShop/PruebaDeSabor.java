@@ -1,9 +1,9 @@
-package herencia.pasteleria;
+package Inheritance.CakeBakeShop;
 
 public class PruebaDeSabor {
 
     public static void main(String[] args){
-        Pastel pastel = new Pastel();
+        /*Pastel pastel = new Pastel();
         pastel.setPrecio(400);
         System.out.println("Sabor de Pastel Basico: " + pastel.getSabor());
         System.out.println("Costo del Pastel " + "$" + pastel.getPrecio());
@@ -21,6 +21,6 @@ public class PruebaDeSabor {
         pastelBoda.setNiveles(4);
         System.out.println("Sabor de Pastel de Bodas: " + pastelBoda.getSabor());
         System.out.println("Niveles que componen al Pastel de Bodas: " + pastelBoda.getNiveles());
-        System.out.println("Costo de Pastel de Bodas " + "$" + pastelBoda.getPrecio());
+        System.out.println("Costo de Pastel de Bodas " + "$" + pastelBoda.getPrecio());*/
     }
 }

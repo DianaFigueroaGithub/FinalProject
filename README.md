@@ -7,7 +7,8 @@ Llamada *Pastel*, debe contener los atributos de:
 - sabor (atributo privado)
 - precio (atributo privado)
 
-NOTA: para el atributo sabor, se deben tener dos métodos, uno definiendo el atributo sabor de vainilla, y otro que nos permita usar el sabor como una variable que nosotros podríamos ponerle cualquier otro sabor desde la clase Prueba de Sabor.
+NOTA: para el atributo sabor, se deben tener dos métodos, uno definiendo el atributo sabor de vainilla, y otro que nos permita usar el sabor como una variable 
+que nosotros podríamos ponerle cualquier otro sabor desde la clase Prueba de Sabor.
 
 *Subclass*
 *PastelFiestaCumple* el cual va a tener un atributo:
